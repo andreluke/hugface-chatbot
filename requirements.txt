@@ -1,0 +1,8 @@
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+faiss-cpu
+torch
+flask
+python-dotenv
+numpy
+pytest
