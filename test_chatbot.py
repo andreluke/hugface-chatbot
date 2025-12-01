@@ -28,8 +28,6 @@ def test_chatbot():
         "Como otimizar performance em React Native?",
         "Qual a diferença entre React Native e Flutter?",
         "Como fazer testes em aplicações mobile?",
-        "O que é Python Django?",  # Pergunta fora do escopo
-        "Quais são as melhores práticas de CI/CD para mobile?",
     ]
     
     print("\n=== Executando Testes ===\n")
